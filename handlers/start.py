@@ -15,9 +15,10 @@ from config import CHANNEL_USERNAME
 router = Router()
 
 WELCOME_TEXT = (
-    "👋 Добро пожаловать в <b>PurioVPN</b>!\n\n"
-    "Быстрый и надёжный VPN. Выбирай раздел ниже 👇 mellivora"
+    "<tg-emoji id='5170203290721321766'>⚡️</tg-emoji> Добро пожаловать в <b>PurioVPN</b>!\n\n"
+    "Быстрый и надёжный VPN. Выбирай раздел ниже mellivora"
 )
+
 
 
 def _parse_referrer(command: CommandObject) -> int | None:
