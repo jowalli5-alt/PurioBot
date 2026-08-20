@@ -16,8 +16,9 @@ router = Router()
 
 WELCOME_TEXT = (
     "<tg-emoji id='5170203290721321766'>⚡️</tg-emoji> Добро пожаловать в <b>PurioVPN</b>!\n\n"
-    "Быстрый и надёжный VPN. Выбирай раздел ниже mellivora"
+    "Быстрый и надёжный VPN. Выбирай раздел ниже <tg-emoji id='5172653165836763657'>👇</tg-emoji mellivora>"
 )
+
 
 
 
